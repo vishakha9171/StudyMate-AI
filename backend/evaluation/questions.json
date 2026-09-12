@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "type": "single_document",
+    "question": "What role does MPPWD Bhopal play in infrastructure development?",
+    "expected_sources": [
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "single_document",
+    "question": "What are the key features and estimated cost of the Sant Hirdaram Nagar Double-Decker Flyover?",
+    "expected_sources": [
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "single_document",
+    "question": "What are the main components of a bridge mentioned in the MPPWD internship material?",
+    "expected_sources": [
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "single_document",
+    "question": "Which laboratory tests are mentioned in the MPPWD internship presentation, and what does each assess?",
+    "expected_sources": [
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "single_document",
+    "question": "Which software tools and modern construction techniques were learned during the MPPWD internship?",
+    "expected_sources": [
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "type": "single_document",
+    "question": "What practical bridge-construction activities and collaboration experience are described in the MPPWD internship?",
+    "expected_sources": [
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "type": "single_document",
+    "question": "What problems were identified in the existing SGSITS road network?",
+    "expected_sources": [
+      {
+        "source": "minor_ppt.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "type": "single_document",
+    "question": "What equipment and software were used for the SGSITS road alignment project?",
+    "expected_sources": [
+      {
+        "source": "minor_ppt.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "type": "single_document",
+    "question": "What are the advantages and limitations of a Total Station mentioned in the road alignment project?",
+    "expected_sources": [
+      {
+        "source": "minor_ppt.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "type": "single_document",
+    "question": "What design parameters were adopted for the road, including design speed, curve radius, lane width, shoulder width, and design traffic?",
+    "expected_sources": [
+      {
+        "source": "minor_ppt.pdf",
+        "page": 25
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "type": "multi_document",
+    "question": "Compare the bridge components described in the MPPWD internship with the flexible pavement components described in the SGSITS road project.",
+    "expected_sources": [
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 5
+      },
+      {
+        "source": "minor_ppt.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "type": "multi_document",
+    "question": "The MPPWD internship mentions Proctor compaction and Aggregate Impact Value tests. How does this practical laboratory exposure relate to the road project's discussion of pavement and material considerations?",
+    "expected_sources": [
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 6
+      },
+      {
+        "source": "minor_ppt.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "type": "multi_document",
+    "question": "Which software was learned during the MPPWD internship, and which of those tools is also used or related to the SGSITS road alignment project?",
+    "expected_sources": [
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 7
+      },
+      {
+        "source": "minor_ppt.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "type": "multi_document",
+    "question": "Compare the road-construction experience from the MPPWD internship with the road survey procedure used in the SGSITS project.",
+    "expected_sources": [
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 8
+      },
+      {
+        "source": "minor_ppt.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "type": "multi_document",
+    "question": "What construction techniques were learned in the MPPWD internship, and what digital modelling techniques were used in the SGSITS road project?",
+    "expected_sources": [
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 7
+      },
+      {
+        "source": "minor_ppt.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "type": "multi_document",
+    "question": "Compare the MPPWD flyover project dimensions with the SGSITS road project's surveyed length and width.",
+    "expected_sources": [
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 4
+      },
+      {
+        "source": "minor_ppt.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "type": "multi_document",
+    "question": "How do the MPPWD internship's structural engineering focus and the SGSITS project's road alignment focus contribute to the student's stated career interest in structural and transportation engineering?",
+    "expected_sources": [
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 9
+      },
+      {
+        "source": "minor_ppt.pdf",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "type": "multi_document",
+    "question": "What pavement types are discussed in the SGSITS project, and what bridge types were explored during the MPPWD internship?",
+    "expected_sources": [
+      {
+        "source": "minor_ppt.pdf",
+        "page": 15
+      },
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "type": "multi_document",
+    "question": "What are the road project's key design factors, and what role does MPPWD describe for quality assurance in infrastructure projects?",
+    "expected_sources": [
+      {
+        "source": "minor_ppt.pdf",
+        "page": 21
+      },
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "type": "multi_document",
+    "question": "The road project uses Total Station data and Civil 3D. What practical tools and technologies did the MPPWD internship also expose the student to?",
+    "expected_sources": [
+      {
+        "source": "minor_ppt.pdf",
+        "page": 6
+      },
+      {
+        "source": "MPPWD_intern.pptx",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "type": "unanswerable",
+    "question": "Explain the four-stroke diesel engine cycle and its working principle.",
+    "expected_sources": []
+  },
+  {
+    "id": 22,
+    "type": "unanswerable",
+    "question": "Explain the Marshall stability test for bituminous concrete and derive its stability equation.",
+    "expected_sources": []
+  },
+  {
+    "id": 23,
+    "type": "unanswerable",
+    "question": "Design an RCC isolated footing for a square column carrying a given axial load.",
+    "expected_sources": []
+  },
+  {
+    "id": 24,
+    "type": "unanswerable",
+    "question": "What is the standard five-day BOD test procedure and how is BOD calculated?",
+    "expected_sources": []
+  },
+  {
+    "id": 25,
+    "type": "unanswerable",
+    "question": "Describe the complete step-by-step construction procedure for a cement concrete pavement slab.",
+    "expected_sources": []
+  },
+  {
+    "id": 26,
+    "type": "unanswerable",
+    "question": "What is the safe bearing capacity of soil and how is it determined from a plate load test?",
+    "expected_sources": []
+  },
+  {
+    "id": 27,
+    "type": "unanswerable",
+    "question": "Explain the working principle and discharge equation of a V-notch weir.",
+    "expected_sources": []
+  },
+  {
+    "id": 28,
+    "type": "unanswerable",
+    "question": "What is Young's modulus of concrete and what is its standard numerical value?",
+    "expected_sources": []
+  },
+  {
+    "id": 29,
+    "type": "unanswerable",
+    "question": "Explain the structural behavior and reinforcement arrangement of a counterfort retaining wall.",
+    "expected_sources": []
+  },
+  {
+    "id": 30,
+    "type": "unanswerable",
+    "question": "Explain how flood discharge is estimated from a flood hydrograph.",
+    "expected_sources": []
+  }
+]

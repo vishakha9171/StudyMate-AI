@@ -1,0 +1,77 @@
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# ==============================
+# Secrets
+# ==============================
+
+.env
+.env.*
+!.env.example
+
+# ==============================
+# StudyMate local/generated data
+# ==============================
+
+backend/data/
+backend/uploads/
+
+# Ignore local vector store if applicable
+backend/data/*.json
+
+# ==============================
+# Frontend
+# ==============================
+
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# ==============================
+# Logs
+# ==============================
+
+*.log
+logs/
+
+# ==============================
+# OS
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# VS Code
+# ==============================
+
+.vscode/
+!.vscode/extensions.json
+
+# ==============================
+# Jupyter
+# ==============================
+
+.ipynb_checkpoints/
+
+# ==============================
+# Temporary files
+# ==============================
+
+*.tmp
+*.temp
+*.swp
+*.swo

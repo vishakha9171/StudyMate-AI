@@ -1,0 +1,3030 @@
+{
+  "total_questions": 30,
+  "answerable_questions": 20,
+  "unanswerable_questions": 10,
+  "refusal_threshold": 0.48,
+  "retrieval_top_k": 12,
+  "generation_enabled": false,
+  "results": [
+    {
+      "id": 1,
+      "question": "What role does MPPWD Bhopal play in infrastructure development?",
+      "type": "single_document",
+      "expected_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3,
+          "score": 0.7935,
+          "semantic_score": 0.8691,
+          "lexical_score": 0.8
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.6079,
+          "semantic_score": 0.7593,
+          "lexical_score": 0.4
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 13,
+          "score": 0.4921,
+          "semantic_score": 0.6802,
+          "lexical_score": 0.2
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 4,
+          "score": 0.4855,
+          "semantic_score": 0.747,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.485,
+          "semantic_score": 0.6692,
+          "lexical_score": 0.2
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.4481,
+          "semantic_score": 0.6894,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.4453,
+          "semantic_score": 0.685,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "WhatsApp Image 2026-09-03 at 23.41.55.jpeg",
+          "page": 1,
+          "score": 0.4332,
+          "semantic_score": 0.5895,
+          "lexical_score": 0.2
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.4237,
+          "semantic_score": 0.6518,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 22,
+          "score": 0.4219,
+          "semantic_score": 0.6491,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17,
+          "score": 0.4198,
+          "semantic_score": 0.6459,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 21,
+          "score": 0.4187,
+          "semantic_score": 0.6441,
+          "lexical_score": 0.0
+        }
+      ],
+      "best_score": 0.7935,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 2,
+      "question": "What are the key features and estimated cost of the Sant Hirdaram Nagar Double-Decker Flyover?",
+      "type": "single_document",
+      "expected_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 4
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 4,
+          "score": 0.8504,
+          "semantic_score": 0.852,
+          "lexical_score": 1.0
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.6578,
+          "semantic_score": 0.694,
+          "lexical_score": 0.6667
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3,
+          "score": 0.4334,
+          "semantic_score": 0.6668,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 29,
+          "score": 0.402,
+          "semantic_score": 0.5757,
+          "lexical_score": 0.1111
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.4014,
+          "semantic_score": 0.6175,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 11,
+          "score": 0.3954,
+          "semantic_score": 0.5656,
+          "lexical_score": 0.1111
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.3919,
+          "semantic_score": 0.603,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 16,
+          "score": 0.391,
+          "semantic_score": 0.5587,
+          "lexical_score": 0.1111
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.3888,
+          "semantic_score": 0.5981,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 13,
+          "score": 0.3821,
+          "semantic_score": 0.5878,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 8,
+          "score": 0.378,
+          "semantic_score": 0.5816,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.378,
+          "semantic_score": 0.5815,
+          "lexical_score": 0.0
+        }
+      ],
+      "best_score": 0.8504,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 3,
+      "question": "What are the main components of a bridge mentioned in the MPPWD internship material?",
+      "type": "single_document",
+      "expected_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.7156,
+          "semantic_score": 0.8124,
+          "lexical_score": 0.75
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5,
+          "score": 0.6432,
+          "semantic_score": 0.7972,
+          "lexical_score": 0.5
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.5896,
+          "semantic_score": 0.7148,
+          "lexical_score": 0.5
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3,
+          "score": 0.5566,
+          "semantic_score": 0.7602,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 8,
+          "score": 0.5213,
+          "semantic_score": 0.7058,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17,
+          "score": 0.4956,
+          "semantic_score": 0.6662,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 26,
+          "score": 0.4757,
+          "semantic_score": 0.6357,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "WhatsApp Image 2026-09-03 at 23.41.55.jpeg",
+          "page": 1,
+          "score": 0.4732,
+          "semantic_score": 0.6319,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 4,
+          "score": 0.4604,
+          "semantic_score": 0.7082,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.4538,
+          "semantic_score": 0.6982,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 9,
+          "score": 0.4416,
+          "semantic_score": 0.6794,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.4382,
+          "semantic_score": 0.6742,
+          "lexical_score": 0.0
+        }
+      ],
+      "best_score": 0.7156,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 4,
+      "question": "Which laboratory tests are mentioned in the MPPWD internship presentation, and what does each assess?",
+      "type": "single_document",
+      "expected_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 6
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.611,
+          "semantic_score": 0.7306,
+          "lexical_score": 0.5
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 6,
+          "score": 0.6005,
+          "semantic_score": 0.7144,
+          "lexical_score": 0.5
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.5123,
+          "semantic_score": 0.6599,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3,
+          "score": 0.4727,
+          "semantic_score": 0.6631,
+          "lexical_score": 0.1667
+        },
+        {
+          "source": "WhatsApp Image 2026-09-03 at 23.41.55.jpeg",
+          "page": 1,
+          "score": 0.4219,
+          "semantic_score": 0.5849,
+          "lexical_score": 0.1667
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5,
+          "score": 0.4123,
+          "semantic_score": 0.6343,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.4106,
+          "semantic_score": 0.6317,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 21,
+          "score": 0.4048,
+          "semantic_score": 0.6228,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.4046,
+          "semantic_score": 0.6225,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 7,
+          "score": 0.4046,
+          "semantic_score": 0.6225,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 9,
+          "score": 0.4018,
+          "semantic_score": 0.6182,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.3976,
+          "semantic_score": 0.6117,
+          "lexical_score": 0.0
+        }
+      ],
+      "best_score": 0.611,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 5,
+      "question": "Which software tools and modern construction techniques were learned during the MPPWD internship?",
+      "type": "single_document",
+      "expected_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 7
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 7,
+          "score": 0.7319,
+          "semantic_score": 0.7903,
+          "lexical_score": 0.75
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.6063,
+          "semantic_score": 0.7886,
+          "lexical_score": 0.375
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 8,
+          "score": 0.514,
+          "semantic_score": 0.7428,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.507,
+          "semantic_score": 0.6839,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "WhatsApp Image 2026-09-03 at 23.41.55.jpeg",
+          "page": 1,
+          "score": 0.5046,
+          "semantic_score": 0.6801,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 6,
+          "score": 0.4916,
+          "semantic_score": 0.7083,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3,
+          "score": 0.4895,
+          "semantic_score": 0.705,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 9,
+          "score": 0.4797,
+          "semantic_score": 0.7379,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 11,
+          "score": 0.4606,
+          "semantic_score": 0.6605,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.4504,
+          "semantic_score": 0.693,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 13,
+          "score": 0.4464,
+          "semantic_score": 0.6868,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 25,
+          "score": 0.4427,
+          "semantic_score": 0.6329,
+          "lexical_score": 0.125
+        }
+      ],
+      "best_score": 0.7319,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 6,
+      "question": "What practical bridge-construction activities and collaboration experience are described in the MPPWD internship?",
+      "type": "single_document",
+      "expected_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 8
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 8,
+          "score": 0.6411,
+          "semantic_score": 0.7822,
+          "lexical_score": 0.5
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.5784,
+          "semantic_score": 0.7937,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.5496,
+          "semantic_score": 0.7014,
+          "lexical_score": 0.375
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 9,
+          "score": 0.5069,
+          "semantic_score": 0.7318,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5,
+          "score": 0.5029,
+          "semantic_score": 0.7256,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 7,
+          "score": 0.4977,
+          "semantic_score": 0.7177,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3,
+          "score": 0.4894,
+          "semantic_score": 0.7049,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "WhatsApp Image 2026-09-03 at 23.41.55.jpeg",
+          "page": 1,
+          "score": 0.463,
+          "semantic_score": 0.6642,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.438,
+          "semantic_score": 0.6739,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 4,
+          "score": 0.4336,
+          "semantic_score": 0.6671,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 13,
+          "score": 0.4312,
+          "semantic_score": 0.6634,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.4269,
+          "semantic_score": 0.6568,
+          "lexical_score": 0.0
+        }
+      ],
+      "best_score": 0.6411,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 7,
+      "question": "What problems were identified in the existing SGSITS road network?",
+      "type": "single_document",
+      "expected_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 3
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.7031,
+          "semantic_score": 0.8082,
+          "lexical_score": 0.6667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.6452,
+          "semantic_score": 0.749,
+          "lexical_score": 0.5
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.6192,
+          "semantic_score": 0.8073,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 19,
+          "score": 0.6161,
+          "semantic_score": 0.7555,
+          "lexical_score": 0.5
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 4,
+          "score": 0.5182,
+          "semantic_score": 0.6691,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 3,
+          "score": 0.5143,
+          "semantic_score": 0.7271,
+          "lexical_score": 0.1667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 26,
+          "score": 0.4986,
+          "semantic_score": 0.6388,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 27,
+          "score": 0.4952,
+          "semantic_score": 0.6337,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 21,
+          "score": 0.4804,
+          "semantic_score": 0.675,
+          "lexical_score": 0.1667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 13,
+          "score": 0.4626,
+          "semantic_score": 0.6476,
+          "lexical_score": 0.1667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 25,
+          "score": 0.4615,
+          "semantic_score": 0.6459,
+          "lexical_score": 0.1667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 22,
+          "score": 0.4542,
+          "semantic_score": 0.6346,
+          "lexical_score": 0.1667
+        }
+      ],
+      "best_score": 0.7031,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 8,
+      "question": "What equipment and software were used for the SGSITS road alignment project?",
+      "type": "single_document",
+      "expected_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 6
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.7045,
+          "semantic_score": 0.8092,
+          "lexical_score": 0.6
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.7036,
+          "semantic_score": 0.8298,
+          "lexical_score": 0.6
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.6951,
+          "semantic_score": 0.8166,
+          "lexical_score": 0.6
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 6,
+          "score": 0.6479,
+          "semantic_score": 0.7659,
+          "lexical_score": 0.6
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 19,
+          "score": 0.6076,
+          "semantic_score": 0.682,
+          "lexical_score": 0.6
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 13,
+          "score": 0.5798,
+          "semantic_score": 0.7162,
+          "lexical_score": 0.4
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 4,
+          "score": 0.567,
+          "semantic_score": 0.6965,
+          "lexical_score": 0.4
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 26,
+          "score": 0.5446,
+          "semantic_score": 0.6839,
+          "lexical_score": 0.4
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 27,
+          "score": 0.5425,
+          "semantic_score": 0.6807,
+          "lexical_score": 0.4
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 22,
+          "score": 0.5405,
+          "semantic_score": 0.6557,
+          "lexical_score": 0.4
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 26,
+          "score": 0.536,
+          "semantic_score": 0.6708,
+          "lexical_score": 0.4
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 5,
+          "score": 0.5306,
+          "semantic_score": 0.6624,
+          "lexical_score": 0.4
+        }
+      ],
+      "best_score": 0.7045,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 9,
+      "question": "What are the advantages and limitations of a Total Station mentioned in the road alignment project?",
+      "type": "single_document",
+      "expected_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 10
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.7007,
+          "semantic_score": 0.7875,
+          "lexical_score": 0.6667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.6917,
+          "semantic_score": 0.7906,
+          "lexical_score": 0.6667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 10,
+          "score": 0.6859,
+          "semantic_score": 0.7818,
+          "lexical_score": 0.6667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 4,
+          "score": 0.6832,
+          "semantic_score": 0.7605,
+          "lexical_score": 0.6667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.6589,
+          "semantic_score": 0.7231,
+          "lexical_score": 0.6667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 5,
+          "score": 0.6407,
+          "semantic_score": 0.7122,
+          "lexical_score": 0.6667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 6,
+          "score": 0.6166,
+          "semantic_score": 0.7392,
+          "lexical_score": 0.5
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 27,
+          "score": 0.5764,
+          "semantic_score": 0.6944,
+          "lexical_score": 0.5
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 13,
+          "score": 0.5739,
+          "semantic_score": 0.7377,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 22,
+          "score": 0.5706,
+          "semantic_score": 0.7326,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 14,
+          "score": 0.5634,
+          "semantic_score": 0.7385,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 9,
+          "score": 0.559,
+          "semantic_score": 0.7148,
+          "lexical_score": 0.3333
+        }
+      ],
+      "best_score": 0.7007,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 10,
+      "question": "What design parameters were adopted for the road, including design speed, curve radius, lane width, shoulder width, and design traffic?",
+      "type": "single_document",
+      "expected_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 25
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 25,
+          "score": 0.733,
+          "semantic_score": 0.7616,
+          "lexical_score": 0.8333
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 26,
+          "score": 0.6573,
+          "semantic_score": 0.7434,
+          "lexical_score": 0.6667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 23,
+          "score": 0.5529,
+          "semantic_score": 0.7224,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.5488,
+          "semantic_score": 0.7162,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 27,
+          "score": 0.5365,
+          "semantic_score": 0.7292,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 26,
+          "score": 0.5321,
+          "semantic_score": 0.6904,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 28,
+          "score": 0.4922,
+          "semantic_score": 0.6874,
+          "lexical_score": 0.1667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 21,
+          "score": 0.4904,
+          "semantic_score": 0.6904,
+          "lexical_score": 0.1667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 13,
+          "score": 0.4831,
+          "semantic_score": 0.6791,
+          "lexical_score": 0.1667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 24,
+          "score": 0.4764,
+          "semantic_score": 0.6689,
+          "lexical_score": 0.1667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.4757,
+          "semantic_score": 0.6998,
+          "lexical_score": 0.0833
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.4713,
+          "semantic_score": 0.661,
+          "lexical_score": 0.1667
+        }
+      ],
+      "best_score": 0.733,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 11,
+      "question": "Compare the bridge components described in the MPPWD internship with the flexible pavement components described in the SGSITS road project.",
+      "type": "multi_document",
+      "expected_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.6176,
+          "semantic_score": 0.8219,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.5576,
+          "semantic_score": 0.7296,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5,
+          "score": 0.5478,
+          "semantic_score": 0.7505,
+          "lexical_score": 0.2222
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3,
+          "score": 0.5245,
+          "semantic_score": 0.7642,
+          "lexical_score": 0.1111
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 8,
+          "score": 0.497,
+          "semantic_score": 0.7219,
+          "lexical_score": 0.1111
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 4,
+          "score": 0.4754,
+          "semantic_score": 0.7314,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.7499,
+          "semantic_score": 0.829,
+          "lexical_score": 0.8
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 19,
+          "score": 0.7408,
+          "semantic_score": 0.8149,
+          "lexical_score": 0.8
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 15,
+          "score": 0.6797,
+          "semantic_score": 0.7979,
+          "lexical_score": 0.6
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 20,
+          "score": 0.6667,
+          "semantic_score": 0.7778,
+          "lexical_score": 0.6
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17,
+          "score": 0.6414,
+          "semantic_score": 0.8159,
+          "lexical_score": 0.4
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 26,
+          "score": 0.6335,
+          "semantic_score": 0.7268,
+          "lexical_score": 0.6
+        }
+      ],
+      "best_score": 0.6176,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 12,
+      "question": "The MPPWD internship mentions Proctor compaction and Aggregate Impact Value tests. How does this practical laboratory exposure relate to the road project's discussion of pavement and material considerations?",
+      "type": "multi_document",
+      "expected_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 6
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 15
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 6,
+          "score": 0.7316,
+          "semantic_score": 0.8111,
+          "lexical_score": 0.7
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.5985,
+          "semantic_score": 0.7963,
+          "lexical_score": 0.3
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.5645,
+          "semantic_score": 0.753,
+          "lexical_score": 0.3
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3,
+          "score": 0.5258,
+          "semantic_score": 0.7705,
+          "lexical_score": 0.1
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 8,
+          "score": 0.4747,
+          "semantic_score": 0.6919,
+          "lexical_score": 0.1
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 7,
+          "score": 0.4643,
+          "semantic_score": 0.6759,
+          "lexical_score": 0.1
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.7499,
+          "semantic_score": 0.829,
+          "lexical_score": 0.8
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 19,
+          "score": 0.7408,
+          "semantic_score": 0.8149,
+          "lexical_score": 0.8
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 15,
+          "score": 0.6797,
+          "semantic_score": 0.7979,
+          "lexical_score": 0.6
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 20,
+          "score": 0.6667,
+          "semantic_score": 0.7778,
+          "lexical_score": 0.6
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17,
+          "score": 0.6414,
+          "semantic_score": 0.8159,
+          "lexical_score": 0.4
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 26,
+          "score": 0.6335,
+          "semantic_score": 0.7268,
+          "lexical_score": 0.6
+        }
+      ],
+      "best_score": 0.7316,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 13,
+      "question": "Which software was learned during the MPPWD internship, and which of those tools is also used or related to the SGSITS road alignment project?",
+      "type": "multi_document",
+      "expected_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 7
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 6
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 7,
+          "score": 0.6996,
+          "semantic_score": 0.7886,
+          "lexical_score": 0.625
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.6471,
+          "semantic_score": 0.8513,
+          "lexical_score": 0.375
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3,
+          "score": 0.572,
+          "semantic_score": 0.8319,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.5655,
+          "semantic_score": 0.7739,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 8,
+          "score": 0.5089,
+          "semantic_score": 0.7349,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 9,
+          "score": 0.4887,
+          "semantic_score": 0.7518,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.7595,
+          "semantic_score": 0.8563,
+          "lexical_score": 0.75
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.744,
+          "semantic_score": 0.8207,
+          "lexical_score": 0.75
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.7342,
+          "semantic_score": 0.8174,
+          "lexical_score": 0.75
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 6,
+          "score": 0.7043,
+          "semantic_score": 0.7833,
+          "lexical_score": 0.75
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 4,
+          "score": 0.654,
+          "semantic_score": 0.742,
+          "lexical_score": 0.625
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 25,
+          "score": 0.6253,
+          "semantic_score": 0.7579,
+          "lexical_score": 0.5
+        }
+      ],
+      "best_score": 0.6996,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 14,
+      "question": "Compare the road-construction experience from the MPPWD internship with the road survey procedure used in the SGSITS project.",
+      "type": "multi_document",
+      "expected_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 8
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 9
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.6493,
+          "semantic_score": 0.7791,
+          "lexical_score": 0.5714
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 8,
+          "score": 0.6139,
+          "semantic_score": 0.7693,
+          "lexical_score": 0.4286
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.6123,
+          "semantic_score": 0.832,
+          "lexical_score": 0.2857
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3,
+          "score": 0.5753,
+          "semantic_score": 0.8301,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5,
+          "score": 0.5434,
+          "semantic_score": 0.781,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 9,
+          "score": 0.5133,
+          "semantic_score": 0.7347,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.7243,
+          "semantic_score": 0.8433,
+          "lexical_score": 0.6667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.7128,
+          "semantic_score": 0.8036,
+          "lexical_score": 0.6667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.6838,
+          "semantic_score": 0.809,
+          "lexical_score": 0.5556
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 6,
+          "score": 0.651,
+          "semantic_score": 0.7806,
+          "lexical_score": 0.5556
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 4,
+          "score": 0.6457,
+          "semantic_score": 0.7577,
+          "lexical_score": 0.5556
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 9,
+          "score": 0.6175,
+          "semantic_score": 0.7718,
+          "lexical_score": 0.4444
+        }
+      ],
+      "best_score": 0.6493,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 15,
+      "question": "What construction techniques were learned in the MPPWD internship, and what digital modelling techniques were used in the SGSITS road project?",
+      "type": "multi_document",
+      "expected_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 7
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 12
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.6493,
+          "semantic_score": 0.7791,
+          "lexical_score": 0.5714
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 8,
+          "score": 0.6139,
+          "semantic_score": 0.7693,
+          "lexical_score": 0.4286
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.6123,
+          "semantic_score": 0.832,
+          "lexical_score": 0.2857
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3,
+          "score": 0.5753,
+          "semantic_score": 0.8301,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5,
+          "score": 0.5434,
+          "semantic_score": 0.781,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 9,
+          "score": 0.5133,
+          "semantic_score": 0.7347,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.7381,
+          "semantic_score": 0.829,
+          "lexical_score": 0.75
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.7178,
+          "semantic_score": 0.7887,
+          "lexical_score": 0.75
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.6845,
+          "semantic_score": 0.7945,
+          "lexical_score": 0.625
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 6,
+          "score": 0.6609,
+          "semantic_score": 0.7673,
+          "lexical_score": 0.625
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 4,
+          "score": 0.6546,
+          "semantic_score": 0.7395,
+          "lexical_score": 0.625
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 9,
+          "score": 0.6273,
+          "semantic_score": 0.7638,
+          "lexical_score": 0.5
+        }
+      ],
+      "best_score": 0.6493,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": false
+    },
+    {
+      "id": 16,
+      "question": "Compare the MPPWD flyover project dimensions with the SGSITS road project's surveyed length and width.",
+      "type": "multi_document",
+      "expected_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 4
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 4,
+          "score": 0.6021,
+          "semantic_score": 0.7981,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.5907,
+          "semantic_score": 0.8234,
+          "lexical_score": 0.2222
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.5397,
+          "semantic_score": 0.7449,
+          "lexical_score": 0.2222
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3,
+          "score": 0.5305,
+          "semantic_score": 0.7734,
+          "lexical_score": 0.1111
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 8,
+          "score": 0.4747,
+          "semantic_score": 0.7303,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5,
+          "score": 0.4682,
+          "semantic_score": 0.7203,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.7243,
+          "semantic_score": 0.8433,
+          "lexical_score": 0.6667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.7128,
+          "semantic_score": 0.8036,
+          "lexical_score": 0.6667
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.6838,
+          "semantic_score": 0.809,
+          "lexical_score": 0.5556
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 6,
+          "score": 0.651,
+          "semantic_score": 0.7806,
+          "lexical_score": 0.5556
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 4,
+          "score": 0.6457,
+          "semantic_score": 0.7577,
+          "lexical_score": 0.5556
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 9,
+          "score": 0.6175,
+          "semantic_score": 0.7718,
+          "lexical_score": 0.4444
+        }
+      ],
+      "best_score": 0.6021,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 17,
+      "question": "How do the MPPWD internship's structural engineering focus and the SGSITS project's road alignment focus contribute to the student's stated career interest in structural and transportation engineering?",
+      "type": "multi_document",
+      "expected_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 9
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 9,
+          "score": 0.5567,
+          "semantic_score": 0.7416,
+          "lexical_score": 0.2857
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.5543,
+          "semantic_score": 0.7654,
+          "lexical_score": 0.2143
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.5475,
+          "semantic_score": 0.7549,
+          "lexical_score": 0.2143
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.5395,
+          "semantic_score": 0.7376,
+          "lexical_score": 0.2143
+        },
+        {
+          "source": "WhatsApp Image 2026-09-03 at 23.41.55.jpeg",
+          "page": 1,
+          "score": 0.5186,
+          "semantic_score": 0.6879,
+          "lexical_score": 0.2857
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.5158,
+          "semantic_score": 0.766,
+          "lexical_score": 0.0714
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 19,
+          "score": 0.4952,
+          "semantic_score": 0.6744,
+          "lexical_score": 0.2143
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 13,
+          "score": 0.4939,
+          "semantic_score": 0.7,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.4885,
+          "semantic_score": 0.6966,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 26,
+          "score": 0.4738,
+          "semantic_score": 0.6465,
+          "lexical_score": 0.2143
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 7,
+          "score": 0.4735,
+          "semantic_score": 0.701,
+          "lexical_score": 0.0714
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 4,
+          "score": 0.4733,
+          "semantic_score": 0.6683,
+          "lexical_score": 0.1429
+        }
+      ],
+      "best_score": 0.5567,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 18,
+      "question": "What pavement types are discussed in the SGSITS project, and what bridge types were explored during the MPPWD internship?",
+      "type": "multi_document",
+      "expected_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 15
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.6075,
+          "semantic_score": 0.8248,
+          "lexical_score": 0.2857
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5,
+          "score": 0.5832,
+          "semantic_score": 0.7233,
+          "lexical_score": 0.4286
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.5437,
+          "semantic_score": 0.7265,
+          "lexical_score": 0.2857
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3,
+          "score": 0.5239,
+          "semantic_score": 0.7511,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 8,
+          "score": 0.4994,
+          "semantic_score": 0.7134,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 4,
+          "score": 0.4682,
+          "semantic_score": 0.7203,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.7499,
+          "semantic_score": 0.829,
+          "lexical_score": 0.8
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 19,
+          "score": 0.7408,
+          "semantic_score": 0.8149,
+          "lexical_score": 0.8
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 15,
+          "score": 0.6797,
+          "semantic_score": 0.7979,
+          "lexical_score": 0.6
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 20,
+          "score": 0.6667,
+          "semantic_score": 0.7778,
+          "lexical_score": 0.6
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17,
+          "score": 0.6414,
+          "semantic_score": 0.8159,
+          "lexical_score": 0.4
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 26,
+          "score": 0.6335,
+          "semantic_score": 0.7268,
+          "lexical_score": 0.6
+        }
+      ],
+      "best_score": 0.6075,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 19,
+      "question": "What are the road project's key design factors, and what role does MPPWD describe for quality assurance in infrastructure projects?",
+      "type": "multi_document",
+      "expected_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 21
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3,
+          "score": 0.6437,
+          "semantic_score": 0.7878,
+          "lexical_score": 0.5
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.545,
+          "semantic_score": 0.7904,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.5312,
+          "semantic_score": 0.7211,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 7,
+          "score": 0.4904,
+          "semantic_score": 0.7063,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 4,
+          "score": 0.47,
+          "semantic_score": 0.7231,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 8,
+          "score": 0.4683,
+          "semantic_score": 0.7205,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.6352,
+          "semantic_score": 0.7972,
+          "lexical_score": 0.4444
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.6117,
+          "semantic_score": 0.7521,
+          "lexical_score": 0.4444
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.6004,
+          "semantic_score": 0.7864,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 13,
+          "score": 0.5791,
+          "semantic_score": 0.711,
+          "lexical_score": 0.4444
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 22,
+          "score": 0.5558,
+          "semantic_score": 0.7178,
+          "lexical_score": 0.3333
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 19,
+          "score": 0.5427,
+          "semantic_score": 0.6977,
+          "lexical_score": 0.3333
+        }
+      ],
+      "best_score": 0.6437,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": false
+    },
+    {
+      "id": 20,
+      "question": "The road project uses Total Station data and Civil 3D. What practical tools and technologies did the MPPWD internship also expose the student to?",
+      "type": "multi_document",
+      "expected_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 6
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 7
+        }
+      ],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 7,
+          "score": 0.6996,
+          "semantic_score": 0.7886,
+          "lexical_score": 0.625
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 2,
+          "score": 0.6471,
+          "semantic_score": 0.8513,
+          "lexical_score": 0.375
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 3,
+          "score": 0.572,
+          "semantic_score": 0.8319,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 1,
+          "score": 0.5655,
+          "semantic_score": 0.7739,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 8,
+          "score": 0.5089,
+          "semantic_score": 0.7349,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 9,
+          "score": 0.4887,
+          "semantic_score": 0.7518,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.7595,
+          "semantic_score": 0.8563,
+          "lexical_score": 0.75
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.744,
+          "semantic_score": 0.8207,
+          "lexical_score": 0.75
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.7342,
+          "semantic_score": 0.8174,
+          "lexical_score": 0.75
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 6,
+          "score": 0.7043,
+          "semantic_score": 0.7833,
+          "lexical_score": 0.75
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 4,
+          "score": 0.654,
+          "semantic_score": 0.742,
+          "lexical_score": 0.625
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 25,
+          "score": 0.6253,
+          "semantic_score": 0.7579,
+          "lexical_score": 0.5
+        }
+      ],
+      "best_score": 0.6996,
+      "meaningful_overlap": true,
+      "predicted_refusal": false,
+      "retrieval_correct": true
+    },
+    {
+      "id": 21,
+      "question": "Explain the four-stroke diesel engine cycle and its working principle.",
+      "type": "unanswerable",
+      "expected_sources": [],
+      "retrieved_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 9,
+          "score": 0.3843,
+          "semantic_score": 0.5912,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17,
+          "score": 0.3711,
+          "semantic_score": 0.5709,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "All Cheat Sheets Collection.pdf",
+          "page": 11,
+          "score": 0.371,
+          "semantic_score": 0.5227,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "All Cheat Sheets Collection.pdf",
+          "page": 11,
+          "score": 0.367,
+          "semantic_score": 0.5166,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "WhatsApp Image 2026-09-03 at 23.41.55.jpeg",
+          "page": 1,
+          "score": 0.3644,
+          "semantic_score": 0.5607,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 21,
+          "score": 0.3641,
+          "semantic_score": 0.5601,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "Adobe Scan Sep 17, 2025 (1).pdf",
+          "page": 3,
+          "score": 0.3621,
+          "semantic_score": 0.5571,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "All Cheat Sheets Collection.pdf",
+          "page": 12,
+          "score": 0.3621,
+          "semantic_score": 0.509,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "Adobe Scan Sep 17, 2025 (1).pdf",
+          "page": 7,
+          "score": 0.362,
+          "semantic_score": 0.557,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 14,
+          "score": 0.3618,
+          "semantic_score": 0.5566,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 15,
+          "score": 0.3608,
+          "semantic_score": 0.5551,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.3602,
+          "semantic_score": 0.5542,
+          "lexical_score": 0.0
+        }
+      ],
+      "best_score": 0.3843,
+      "meaningful_overlap": false,
+      "predicted_refusal": true,
+      "retrieval_correct": true
+    },
+    {
+      "id": 22,
+      "question": "Explain the Marshall stability test for bituminous concrete and derive its stability equation.",
+      "type": "unanswerable",
+      "expected_sources": [],
+      "retrieved_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 15,
+          "score": 0.5208,
+          "semantic_score": 0.7051,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.5136,
+          "semantic_score": 0.694,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 6,
+          "score": 0.4842,
+          "semantic_score": 0.6968,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 26,
+          "score": 0.4788,
+          "semantic_score": 0.6303,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 16,
+          "score": 0.4637,
+          "semantic_score": 0.6653,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17,
+          "score": 0.4594,
+          "semantic_score": 0.7067,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 16,
+          "score": 0.4528,
+          "semantic_score": 0.6966,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 21,
+          "score": 0.4526,
+          "semantic_score": 0.6964,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 18,
+          "score": 0.447,
+          "semantic_score": 0.6396,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.4371,
+          "semantic_score": 0.6725,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 19,
+          "score": 0.4369,
+          "semantic_score": 0.6722,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 3,
+          "score": 0.4365,
+          "semantic_score": 0.6715,
+          "lexical_score": 0.0
+        }
+      ],
+      "best_score": 0.5208,
+      "meaningful_overlap": false,
+      "predicted_refusal": true,
+      "retrieval_correct": true
+    },
+    {
+      "id": 23,
+      "question": "Design an RCC isolated footing for a square column carrying a given axial load.",
+      "type": "unanswerable",
+      "expected_sources": [],
+      "retrieved_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 26,
+          "score": 0.4915,
+          "semantic_score": 0.6792,
+          "lexical_score": 0.2
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 25,
+          "score": 0.4714,
+          "semantic_score": 0.6868,
+          "lexical_score": 0.1
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 21,
+          "score": 0.4696,
+          "semantic_score": 0.684,
+          "lexical_score": 0.1
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 27,
+          "score": 0.4644,
+          "semantic_score": 0.676,
+          "lexical_score": 0.1
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 13,
+          "score": 0.4634,
+          "semantic_score": 0.6744,
+          "lexical_score": 0.1
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17,
+          "score": 0.4619,
+          "semantic_score": 0.6722,
+          "lexical_score": 0.1
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.4616,
+          "semantic_score": 0.6717,
+          "lexical_score": 0.1
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 6,
+          "score": 0.447,
+          "semantic_score": 0.6492,
+          "lexical_score": 0.1
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 1,
+          "score": 0.4418,
+          "semantic_score": 0.6412,
+          "lexical_score": 0.1
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 7,
+          "score": 0.4413,
+          "semantic_score": 0.6404,
+          "lexical_score": 0.1
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 14,
+          "score": 0.4397,
+          "semantic_score": 0.638,
+          "lexical_score": 0.1
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 11,
+          "score": 0.4356,
+          "semantic_score": 0.6317,
+          "lexical_score": 0.1
+        }
+      ],
+      "best_score": 0.4915,
+      "meaningful_overlap": false,
+      "predicted_refusal": true,
+      "retrieval_correct": true
+    },
+    {
+      "id": 24,
+      "question": "What is the standard five-day BOD test procedure and how is BOD calculated?",
+      "type": "unanswerable",
+      "expected_sources": [],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 6,
+          "score": 0.4194,
+          "semantic_score": 0.5903,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 9,
+          "score": 0.4043,
+          "semantic_score": 0.567,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 27,
+          "score": 0.385,
+          "semantic_score": 0.5374,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 21,
+          "score": 0.3729,
+          "semantic_score": 0.5737,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5,
+          "score": 0.3729,
+          "semantic_score": 0.5737,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "All Cheat Sheets Collection.pdf",
+          "page": 14,
+          "score": 0.3723,
+          "semantic_score": 0.5178,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17,
+          "score": 0.3705,
+          "semantic_score": 0.57,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.3659,
+          "semantic_score": 0.5629,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 7,
+          "score": 0.3658,
+          "semantic_score": 0.5627,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "All Cheat Sheets Collection.pdf",
+          "page": 15,
+          "score": 0.3657,
+          "semantic_score": 0.5077,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "Adobe Scan Sep 17, 2025 (1).pdf",
+          "page": 2,
+          "score": 0.3656,
+          "semantic_score": 0.5625,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "All Cheat Sheets Collection.pdf",
+          "page": 14,
+          "score": 0.3656,
+          "semantic_score": 0.5075,
+          "lexical_score": 0.1429
+        }
+      ],
+      "best_score": 0.4194,
+      "meaningful_overlap": false,
+      "predicted_refusal": true,
+      "retrieval_correct": true
+    },
+    {
+      "id": 25,
+      "question": "Describe the complete step-by-step construction procedure for a cement concrete pavement slab.",
+      "type": "unanswerable",
+      "expected_sources": [],
+      "retrieved_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 15,
+          "score": 0.6278,
+          "semantic_score": 0.7153,
+          "lexical_score": 0.625
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 26,
+          "score": 0.5022,
+          "semantic_score": 0.6764,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.4938,
+          "semantic_score": 0.6636,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 16,
+          "score": 0.4843,
+          "semantic_score": 0.6489,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17,
+          "score": 0.4842,
+          "semantic_score": 0.6968,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 21,
+          "score": 0.4822,
+          "semantic_score": 0.6938,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 25,
+          "score": 0.4772,
+          "semantic_score": 0.6861,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 28,
+          "score": 0.4664,
+          "semantic_score": 0.6695,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 27,
+          "score": 0.4626,
+          "semantic_score": 0.6636,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 16,
+          "score": 0.4599,
+          "semantic_score": 0.6595,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 9,
+          "score": 0.4579,
+          "semantic_score": 0.6565,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 3,
+          "score": 0.4544,
+          "semantic_score": 0.6509,
+          "lexical_score": 0.125
+        }
+      ],
+      "best_score": 0.6278,
+      "meaningful_overlap": false,
+      "predicted_refusal": true,
+      "retrieval_correct": true
+    },
+    {
+      "id": 26,
+      "question": "What is the safe bearing capacity of soil and how is it determined from a plate load test?",
+      "type": "unanswerable",
+      "expected_sources": [],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 6,
+          "score": 0.4825,
+          "semantic_score": 0.6462,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 15,
+          "score": 0.426,
+          "semantic_score": 0.6073,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17,
+          "score": 0.4208,
+          "semantic_score": 0.6474,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 22,
+          "score": 0.4066,
+          "semantic_score": 0.5774,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 21,
+          "score": 0.4032,
+          "semantic_score": 0.6203,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 18,
+          "score": 0.3948,
+          "semantic_score": 0.5594,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.3908,
+          "semantic_score": 0.6012,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.3907,
+          "semantic_score": 0.601,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 26,
+          "score": 0.3864,
+          "semantic_score": 0.5464,
+          "lexical_score": 0.125
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 16,
+          "score": 0.3863,
+          "semantic_score": 0.5943,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5,
+          "score": 0.386,
+          "semantic_score": 0.5938,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 13,
+          "score": 0.3841,
+          "semantic_score": 0.5909,
+          "lexical_score": 0.0
+        }
+      ],
+      "best_score": 0.4825,
+      "meaningful_overlap": false,
+      "predicted_refusal": true,
+      "retrieval_correct": true
+    },
+    {
+      "id": 27,
+      "question": "Explain the working principle and discharge equation of a V-notch weir.",
+      "type": "unanswerable",
+      "expected_sources": [],
+      "retrieved_sources": [
+        {
+          "source": "Adobe Scan Sep 17, 2025 (1).pdf",
+          "page": 6,
+          "score": 0.3973,
+          "semantic_score": 0.6112,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5,
+          "score": 0.394,
+          "semantic_score": 0.6061,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.3889,
+          "semantic_score": 0.5983,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 13,
+          "score": 0.3876,
+          "semantic_score": 0.5964,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.3861,
+          "semantic_score": 0.594,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 9,
+          "score": 0.3846,
+          "semantic_score": 0.5917,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "Adobe Scan Sep 17, 2025 (1).pdf",
+          "page": 7,
+          "score": 0.3816,
+          "semantic_score": 0.587,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "Adobe Scan Sep 17, 2025 (1).pdf",
+          "page": 2,
+          "score": 0.3811,
+          "semantic_score": 0.5864,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 14,
+          "score": 0.3808,
+          "semantic_score": 0.5858,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17,
+          "score": 0.3802,
+          "semantic_score": 0.5849,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "Adobe Scan Sep 17, 2025 (1).pdf",
+          "page": 5,
+          "score": 0.3792,
+          "semantic_score": 0.5834,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 6,
+          "score": 0.3779,
+          "semantic_score": 0.5814,
+          "lexical_score": 0.0
+        }
+      ],
+      "best_score": 0.3973,
+      "meaningful_overlap": false,
+      "predicted_refusal": true,
+      "retrieval_correct": true
+    },
+    {
+      "id": 28,
+      "question": "What is Young's modulus of concrete and what is its standard numerical value?",
+      "type": "unanswerable",
+      "expected_sources": [],
+      "retrieved_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.4492,
+          "semantic_score": 0.5812,
+          "lexical_score": 0.2857
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 6,
+          "score": 0.4389,
+          "semantic_score": 0.6203,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 15,
+          "score": 0.4257,
+          "semantic_score": 0.6,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "All Cheat Sheets Collection.pdf",
+          "page": 6,
+          "score": 0.4133,
+          "semantic_score": 0.526,
+          "lexical_score": 0.2857
+        },
+        {
+          "source": "All Cheat Sheets Collection.pdf",
+          "page": 3,
+          "score": 0.4018,
+          "semantic_score": 0.5082,
+          "lexical_score": 0.2857
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5,
+          "score": 0.3978,
+          "semantic_score": 0.6121,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17,
+          "score": 0.3977,
+          "semantic_score": 0.6118,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "All Cheat Sheets Collection.pdf",
+          "page": 6,
+          "score": 0.3933,
+          "semantic_score": 0.5501,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "All Cheat Sheets Collection.pdf",
+          "page": 2,
+          "score": 0.3911,
+          "semantic_score": 0.5468,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "All Cheat Sheets Collection.pdf",
+          "page": 11,
+          "score": 0.3897,
+          "semantic_score": 0.5446,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 7,
+          "score": 0.3884,
+          "semantic_score": 0.5975,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "All Cheat Sheets Collection.pdf",
+          "page": 11,
+          "score": 0.3864,
+          "semantic_score": 0.5396,
+          "lexical_score": 0.1429
+        }
+      ],
+      "best_score": 0.4492,
+      "meaningful_overlap": false,
+      "predicted_refusal": true,
+      "retrieval_correct": true
+    },
+    {
+      "id": 29,
+      "question": "Explain the structural behavior and reinforcement arrangement of a counterfort retaining wall.",
+      "type": "unanswerable",
+      "expected_sources": [],
+      "retrieved_sources": [
+        {
+          "source": "minor_ppt.pdf",
+          "page": 15,
+          "score": 0.4489,
+          "semantic_score": 0.6357,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 9,
+          "score": 0.4459,
+          "semantic_score": 0.6311,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 7,
+          "score": 0.4455,
+          "semantic_score": 0.6304,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 5,
+          "score": 0.4287,
+          "semantic_score": 0.6595,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 21,
+          "score": 0.4232,
+          "semantic_score": 0.6511,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17,
+          "score": 0.4216,
+          "semantic_score": 0.6486,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 13,
+          "score": 0.4215,
+          "semantic_score": 0.6485,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 26,
+          "score": 0.4168,
+          "semantic_score": 0.5863,
+          "lexical_score": 0.1429
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 14,
+          "score": 0.4147,
+          "semantic_score": 0.6379,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 12,
+          "score": 0.4115,
+          "semantic_score": 0.6331,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 11,
+          "score": 0.4103,
+          "semantic_score": 0.6313,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 20,
+          "score": 0.409,
+          "semantic_score": 0.6293,
+          "lexical_score": 0.0
+        }
+      ],
+      "best_score": 0.4489,
+      "meaningful_overlap": false,
+      "predicted_refusal": true,
+      "retrieval_correct": true
+    },
+    {
+      "id": 30,
+      "question": "Explain how flood discharge is estimated from a flood hydrograph.",
+      "type": "unanswerable",
+      "expected_sources": [],
+      "retrieved_sources": [
+        {
+          "source": "MPPWD_intern.pptx",
+          "page": 4,
+          "score": 0.4036,
+          "semantic_score": 0.5248,
+          "lexical_score": 0.25
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 30,
+          "score": 0.3952,
+          "semantic_score": 0.6081,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 4,
+          "score": 0.3928,
+          "semantic_score": 0.6043,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 9,
+          "score": 0.3904,
+          "semantic_score": 0.6006,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 2,
+          "score": 0.3862,
+          "semantic_score": 0.5941,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 13,
+          "score": 0.3842,
+          "semantic_score": 0.5911,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "Adobe Scan Sep 17, 2025 (1).pdf",
+          "page": 6,
+          "score": 0.3841,
+          "semantic_score": 0.591,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 22,
+          "score": 0.3826,
+          "semantic_score": 0.5886,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 12,
+          "score": 0.3825,
+          "semantic_score": 0.5885,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 21,
+          "score": 0.3799,
+          "semantic_score": 0.5845,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "Adobe Scan Sep 17, 2025 (1).pdf",
+          "page": 7,
+          "score": 0.3797,
+          "semantic_score": 0.5842,
+          "lexical_score": 0.0
+        },
+        {
+          "source": "minor_ppt.pdf",
+          "page": 17,
+          "score": 0.3793,
+          "semantic_score": 0.5836,
+          "lexical_score": 0.0
+        }
+      ],
+      "best_score": 0.4036,
+      "meaningful_overlap": false,
+      "predicted_refusal": true,
+      "retrieval_correct": true
+    }
+  ]
+}
